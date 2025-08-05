@@ -1,0 +1,11 @@
+2025-07-30 02:18:00.734 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-30 02:18:00.745 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-30 02:18:00.746 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-30 02:18:00.973 [warning] Settings pattern "mcp" doesn't match any settings
+2025-07-30 02:18:01.068 [info] Started local extension host with pid 14265.
+2025-07-30 02:18:01.498 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-07-30 02:18:02.036 [warning] Settings pattern "mcp" doesn't match any settings
+2025-07-30 02:18:03.022 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-30 02:18:03.792 [warning] Settings pattern "mcp" doesn't match any settings
+2025-07-30 02:18:05.713 [info] [perf] Render performance baseline is 18ms
+2025-07-30 02:18:06.095 [warning] Settings pattern "mcp" doesn't match any settings

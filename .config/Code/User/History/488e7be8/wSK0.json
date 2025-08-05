@@ -1,0 +1,12 @@
+{
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "workbench.colorTheme": "Gruvbox Dark (Hard)",
+    "files.autoSave": "onFocusChange",
+    "window.titleBarStyle": "native",
+    "editor.smoothScrolling": true
+}

@@ -1,0 +1,6 @@
+2025/08/05-12:03:52.517 1d2b Reusing MANIFEST /home/aman/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/05-12:03:52.517 1d2b Recovering log #3
+2025/08/05-12:03:52.553 1d2b Reusing old log /home/aman/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000003.log 
+2025/08/05-12:58:11.975 1d2a Level-0 table #5: started
+2025/08/05-12:58:12.000 1d2a Level-0 table #5: 1523457 bytes OK
+2025/08/05-12:58:12.003 1d2a Delete type=0 #3

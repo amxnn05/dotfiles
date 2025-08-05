@@ -1,0 +1,6 @@
+2025-07-30 02:14:45.906 [info] Getting Manifest... piousdeer.adwaita-theme
+2025-07-30 02:14:46.088 [info] Installing extension: piousdeer.adwaita-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aman/.vscode/extensions/extensions.json","path":"/home/aman/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-29T03:00:23.339Z"}}
+2025-07-30 02:14:47.687 [info] Extension signature verification result for piousdeer.adwaita-theme: Success. Internal Code: 0. Executed: true. Duration: 693ms.
+2025-07-30 02:14:47.727 [info] Extracted extension to file:///home/aman/.vscode/extensions/piousdeer.adwaita-theme-1.1.0: piousdeer.adwaita-theme
+2025-07-30 02:14:47.738 [info] Renamed to /home/aman/.vscode/extensions/piousdeer.adwaita-theme-1.1.0
+2025-07-30 02:14:47.746 [info] Extension installed successfully: piousdeer.adwaita-theme vscode-userdata:/home/aman/.vscode/extensions/extensions.json
