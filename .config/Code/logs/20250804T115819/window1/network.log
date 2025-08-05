@@ -1,9 +1,0 @@
-2025-08-04 11:58:45.545 [error] #35: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-edgedevtools/vscode-edge-devtools/latest - error GET Canceled
-2025-08-04 11:58:45.545 [error] #36: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/copilot/latest - error GET Canceled
-2025-08-04 11:58:45.545 [error] #37: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/vscodevim/vim/latest - error GET Canceled
-2025-08-04 11:58:45.545 [error] #38: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/eamodio/gitlens/latest - error GET Canceled
-2025-08-04 11:58:45.546 [error] #39: https://www.vscode-unpkg.net/_gallery/ms-edgedevtools/vscode-edge-devtools/latest - error GET Canceled
-2025-08-04 11:58:45.546 [error] #40: https://www.vscode-unpkg.net/_gallery/github/copilot/latest - error GET Canceled
-2025-08-04 11:58:45.547 [error] #41: https://www.vscode-unpkg.net/_gallery/vscodevim/vim/latest - error GET Canceled
-2025-08-04 11:58:45.547 [error] #42: https://www.vscode-unpkg.net/_gallery/eamodio/gitlens/latest - error GET Canceled
-2025-08-04 11:58:45.548 [error] #43: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
