@@ -10,6 +10,12 @@ export PATH="$PATH:/opt/nvim/"
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="robbyrussell"
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+export PATH="$HOME/.local/bin:$PATH"
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias dfup='dotfiles add -u && dotfiles commit -m "update: $(date)" && dotfiles push'
+alias dfall='dotfiles add -A && dotfiles commit -m "full update: $(date)" && dotfiles push'
+alias dfstat='dotfiles status'
+alias dflog='dotfiles log --oneline --graph'
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
